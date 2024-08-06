@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandesh Khot</h1>
 <h3 align="center">A passionate frontend developer 🙂</h3>
-<img align="right" alt="coding"width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F16915119-man-programmer-is-working-on-his-laptop-coding-and-programming&psig=AOvVaw1atWWHdLILhon29jWwA2T2&ust=1723017532248000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMju9dHy34cDFQAAAAAdAAAAABAp"
-](https://gifdb.com/coding)"
+<img align="right" alt="coding"width="400" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
 
 - 🌱 I’m currently learning **SalesForces Modules**
