@@ -4,9 +4,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykhot10" alt="sandykhot10" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **SalesForces Modules**
 
