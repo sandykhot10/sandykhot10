@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandesh Khot</h1>
 <h3 align="center">A passionate frontend developer 🙂</h3>
-<img align="right" alt="coding"width="400" src="https://cdn.pixabay.com/animation/2024/04/24/06/51/06-51-07-721_512.gif">
 <p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykhot10" alt="sandykhot10" /></a> </p>
 
 - 🌱 I’m currently learning **SalesForces Modules**
 
@@ -22,6 +27,7 @@
 <a href="https://twitter.com/sandykhot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandykhot10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandykhot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandykhot10" height="30" width="40" /></a>
 <a href="https://kaggle.com/sandykhot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sandykhot10" height="30" width="40" /></a>
+<a href="https://fb.com/sandesh khot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandesh khot" height="30" width="40" /></a>
 <a href="https://instagram.com/_sandy_khot_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandy_khot_10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deo smart tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deo smart tech" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandykhot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandykhot10" height="30" width="40" /></a>
