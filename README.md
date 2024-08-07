@@ -1,7 +1,7 @@
 ![logo](https://github.com/sandykhot10/sandykhot10/blob/main/m.png)
 <h1 align="center">Hi 👋, I'm Sandesh Khot</h1>
 <h3 align="center">A passionate frontend developer 🙂</h3>
-<img align="right"  alt="coding" width="400" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.webp?cid=ecf05e476fe9skq5tkg2ppljfphpiui8s02sjqcd074lysze&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="right"  alt="coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/200w.webp?cid=ecf05e470h7ivtgs5hkyo14kv72c6wo3m73zh8jpbjh4nxx9&ep=v1_gifs_related&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
 
