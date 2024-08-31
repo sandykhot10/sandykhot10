@@ -4,8 +4,6 @@
 <img align="right"  alt="coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/200w.webp?cid=ecf05e470h7ivtgs5hkyo14kv72c6wo3m73zh8jpbjh4nxx9&ep=v1_gifs_related&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykhot10&label=Profile%20views&color=0e75b6&style=flat" alt="sandykhot10" /> </p>
-
-
 - 🌱 I’m currently learning **SalesForces Modules**
 
 - 👯 I’m looking to collaborate on **Emotional Recognition**
@@ -30,7 +28,6 @@
 <a href="https://www.youtube.com/@deosmarttech3866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deo smart tech" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandykhot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandykhot10" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sandykmiw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandykhot10" height="30" width="40" /></a>
-  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
