@@ -61,7 +61,7 @@
 
 <div align="left">
 
-![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,ts,mongodb,express,react,nodejs,bootstrap,mysql,netlify,cloudflare,linux,python,photoshop,php,kafka&perline=10)
+![My Skills](https://skillicons.dev/icons?i=cpp,java,git,html,css,js,ts,mongodb,express,react,nodejs,bootstrap,mysql,netlify,cloudflare,linux,python,photoshop,php&perline=10)
 
 </div>
 <br>
