@@ -68,8 +68,18 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandykhot10&show_icons=true&locale=en&layout=compact" alt="sandykhot10" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandykhot10&show_icons=true&locale=en&layout=compact" alt="sandykhot10" style="width: 48%; height: 150px;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sandykhot10&show_icons=true&locale=en" alt="sandykhot10" style="width: 48%; height: 150px;">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandykhot10&show_icons=true&locale=en" alt="sandykhot10" /></p>
+<div style="text-align: center; margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandykhot10" alt="sandykhot10" style="width: 50%; height: 150px;">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandykhot10&" alt="sandykhot10" /></p>
+
+</div>
+<br><br>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
