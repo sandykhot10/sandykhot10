@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sandykhot10&show_icons=true&locale=en" alt="sandykhot10" style="width: 48%; height: 150px;">
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
+<div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandykhot10" alt="sandykhot10" style="width: 50%; height: 150px;">
 </div>
 
